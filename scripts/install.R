@@ -21,9 +21,16 @@ check_pkgs = function(pkgs) {
   }
 }
 
-pkgs = c("dplyr", "sparklyr", "readr", "tidyr", "rmarkdown",
+pkgs = c("dplyr", "readr", "tidyr", "rmarkdown", 
          "lubridate", "ggplot2", "leaflet", "hexbin",
          "USAboundaries", "ggmap", "raster", "rgdal",
-         "profvis", "pryr", "microbenchmark")
+         "profvis", "pryr", "microbenchmark", "devtools")
 
 check_pkgs(pkgs)
+
+## Use frozen version of Sparklyr.
+if ("package:sparklyr" %in% search())
+    detach("package:sparklyr", unload = TRUE)
+if ("sparklyr" %in% rownames(installed.packages()))
+     remove.packages("sparklyr")
+devtools::install_github("chris-ukds/sparklyr")
