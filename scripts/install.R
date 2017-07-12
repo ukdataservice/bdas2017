@@ -10,6 +10,7 @@ check_pkgs = function(pkgs) {
     if (!(pkg %in% pkg_inst)) {
       install.packages(pkg, dep = TRUE)
     }
+    library(pkg, char = TRUE, quietly = TRUE)
   }
   invisible(sapply(pkgs, pkg_check))
   if (all(paste0("package:", pkgs) %in% search())) {
