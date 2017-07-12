@@ -1,2 +1,2 @@
-# training
-Training material for data science courses delivered by the UK Data Service.
+# Training
+A repository for training material used in the 2017 Essex Big Data and Analytics Summer School.
