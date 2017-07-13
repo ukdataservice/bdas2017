@@ -21,7 +21,7 @@ check_pkgs = function(pkgs) {
   }
 }
 
-pkgs = c("dplyr", "readr", "tidyr", "rmarkdown", 
+pkgs = c("dplyr", "readr", "tidyr", "rmarkdown", "nycflights13",
          "lubridate", "ggplot2", "leaflet", "hexbin",
          "USAboundaries", "ggmap", "raster", "rgdal",
          "profvis", "pryr", "microbenchmark", "devtools")
