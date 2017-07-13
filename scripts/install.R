@@ -44,3 +44,8 @@ devtools::install_github("ukdataservice/sparklyr")
 ##    (a) List current permissions: %HADOOP_HOME%\bin\winutils.exe ls \tmp\hive
 ##    (b) Set permissions: %HADOOP_HOME%\bin\winutils.exe chmod 777 \tmp\hive
 ##    (c) Verify permissions: %HADOOP_HOME%\bin\winutils.exe ls \tmp\hive
+
+## Fix "rlang_is_null" issue.
+## 
+## remove.packages("rlang")
+## install.packages("rlang")
