@@ -34,3 +34,13 @@ if ("package:sparklyr" %in% search())
 if ("sparklyr" %in% rownames(installed.packages()))
      remove.packages("sparklyr")
 devtools::install_github("ukdataservice/sparklyr")
+
+## Fix Hive permission issue:
+##
+## 0. Set HADOOP_HOME environment variable.
+## 1. Download: https://github.com/ukdataservice/bdas2017/blob/master/scripts/winutils.exe?raw=true
+## 2. Place it in %HADOOP_HOME%\bin.
+## 3. Run command prompt as admin and follow the instructions below:
+##    (a) List current permissions: %HADOOP_HOME%\bin\winutils.exe ls \tmp\hive
+##    (b) Set permissions: %HADOOP_HOME%\bin\winutils.exe chmod 777 \tmp\hive
+##    (c) Verify permissions: %HADOOP_HOME%\bin\winutils.exe ls \tmp\hive
