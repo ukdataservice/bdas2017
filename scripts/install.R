@@ -23,7 +23,7 @@ check_pkgs = function(pkgs) {
 
 pkgs = c("dplyr", "readr", "tidyr", "rmarkdown", "nycflights13",
          "lubridate", "ggplot2", "leaflet", "hexbin", "DBI",
-         "USAboundaries", "ggmap", "raster", "rgdal",
+         "USAboundaries", "ggmap", "raster", "rgdal", "parallel",
          "profvis", "pryr", "microbenchmark", "devtools")
 
 check_pkgs(pkgs)
