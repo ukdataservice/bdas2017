@@ -1,7 +1,7 @@
 <img src="http://www.esds.ac.uk/images/ukds_symbol.gif" width="100">
 
 ## UK Data Service: Encounters with Big Data
-A repository for course material used in the sold-out *Encounters with Big Data* course delivered by the [UK Data Service] at the [2017 Essex Big Data and Analytics Summer School]. Please click [here] to download course material for day 3 (R and Spark).   
+A repository for course material used in the sold-out *Encounters with Big Data* course delivered by the [UK Data Service] at the [2017 Essex Big Data and Analytics Summer School]. Please click [here] to download course material for day 3 (R and Spark) - to be updated! Please email [Chris](mailto:chris.park@protonmail.com) for any comments/feedback/suggestions.
 
 ## Q&A 
 The following is the course [Q&A document]. Please write your name and email address at the beginning of the document and use your initials for questions.
@@ -13,3 +13,4 @@ The following is the course [Q&A document]. Please write your name and email add
 
 ## To do
 - (Suggestion from Yannick): diagram of workflows to show how difference pieces of the big data puzzle fit together.
+
