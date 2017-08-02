@@ -10,3 +10,6 @@ The following is the course [Q&A document]. Please write your name and email add
 [UK Data Service]: https://www.ukdataservice.ac.uk/
 [here]: https://my.pcloud.com/publink/show?code=XZNOQcZq3lmFpqzmimRpkWfATBnWXwqLttk
 [Q&A document]: https://docs.google.com/document/d/1qk2VpcBSdsCKbeLBdolhQiuyr2P-ru_XtetRyBLQCFU/edit?usp=sharing
+
+## To do
+- (Suggestion from Yannick): diagram of workflows to show how difference pieces of the big data puzzle fit together.
