@@ -4,7 +4,7 @@
 A repository for course material used in the sold-out *Encounters with Big Data* course delivered by the [UK Data Service] at the [2017 Essex Big Data and Analytics Summer School]. 
 
 ## Course Material for day 3
-Please click [here] to download course material for day 3 (R and Spark) covered by [Chris].
+Please click [here] to download course material for day 3 (R and Spark) covered by [Chris]. Use the [installation script] if you want to run the code from your own Windows machine.
 
 ## Q&A 
 The following is the course [Q&A document]. Please write your name and email address at the beginning of the document and use your initials for questions.
@@ -14,6 +14,8 @@ The following is the course [Q&A document]. Please write your name and email add
 [here]: https://my.pcloud.com/publink/show?code=XZxlgcZj1VtI76SMNkwIQv8LXvxijTmDNzk
 [Q&A document]: https://docs.google.com/document/d/1qk2VpcBSdsCKbeLBdolhQiuyr2P-ru_XtetRyBLQCFU/edit?usp=sharing
 [Chris]: mailto:chris.park@protonmail.com
+[installation script]: https://github.com/ukdataservice/bdas2017/blob/master/scripts/install.R
+
 ## To do
 - (Suggestion from Yannick): diagram of workflows to show how difference pieces of the big data puzzle fit together.
 
