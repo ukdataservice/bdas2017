@@ -9,7 +9,7 @@ Please click [here] to download course material for day 3 (R and Spark) covered 
 ## Q&A 
 The following is the course [Q&A document]. Please write your name and email address at the beginning of the document and use your initials for questions.
 
-[2017 Essex Big Data and Analytics Summer School]: https://www.essex.ac.uk/iads/documents/2017-programme.pdf
+[2017 Essex Big Data and Analytics Summer School]: https://www1.essex.ac.uk/iads/documents/2017-programme.pdf#page=9
 [UK Data Service]: https://www.ukdataservice.ac.uk/
 [here]: https://my.pcloud.com/publink/show?code=XZxlgcZj1VtI76SMNkwIQv8LXvxijTmDNzk
 [Q&A document]: https://docs.google.com/document/d/1qk2VpcBSdsCKbeLBdolhQiuyr2P-ru_XtetRyBLQCFU/edit?usp=sharing
