@@ -3,7 +3,7 @@
 ## UK Data Service: Encounters with Big Data
 A repository for course material used in the sold-out *Encounters with Big Data* course delivered by the [UK Data Service] at the [2017 Essex Big Data and Analytics Summer School]. 
 
-## Course Material for day 3
+## Course Material for Day 3
 Please click [here] to download course material for day 3 (R and Spark) covered by [Chris]. Use the [installation script] if you want to run the code from your own Windows machine. Slides can be found on [SlideShare].
 
 ## Q&A 
