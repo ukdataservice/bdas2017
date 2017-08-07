@@ -1,7 +1,7 @@
 ## Install required packages for the course.
 check_pkgs = function(pkgs) {
   pkg_check = function(pkg) {
-    chooseCRANmirror(ind = 51)
+    chooseCRANmirror(ind = 51)                 # UK repository
     pkg_name = paste0("package:", pkg)
     pkg_inst = rownames(installed.packages())
     if (pkg_name %in% search()) {
