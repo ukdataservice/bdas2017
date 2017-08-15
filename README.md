@@ -4,10 +4,10 @@
 A repository for course material used in the sold-out *Encounters with Big Data* course delivered by the [UK Data Service] at the [2017 Essex Big Data and Analytics Summer School]. 
 
 ## Course Material
-The course material for all 5 days can be downloaded [here] . 
+The course material for all 5 days can be downloaded [here]. [Chris]'s slides for day 3 can be found on [SlideShare].
 
-### Day 3
-If you want to run the notebook for day 3 (R and Spark) on your own machine, please use the [installation script]. [Chris]'s slides can be found on [SlideShare].
+## R/Spark
+If you want to run the R/Spark notebook on your own machine, please use the [installation script]. 
 
 [2017 Essex Big Data and Analytics Summer School]: https://www1.essex.ac.uk/iads/documents/2017-programme.pdf#page=9
 [UK Data Service]: https://www.ukdataservice.ac.uk/
